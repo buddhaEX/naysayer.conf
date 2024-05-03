@@ -1,6 +1,6 @@
 # naysayer.conf
 
-Theme inspired by Jonathan Blow's theme used for Emacs.
+Theme for Geany inspired by Jonathan Blow's theme used for Emacs.
 
 ![image](https://imgur.com/jtLHajR.jpg)
 
